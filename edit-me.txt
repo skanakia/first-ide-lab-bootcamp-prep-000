@@ -1,2 +1,2 @@
-"Hello, World!"
-"This is my first lab using the IDE"
+print("Hello, World!")
+print("This is my first lab using the IDE")
